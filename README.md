@@ -1,4 +1,4 @@
-# flutter_application_2
+# Slipify (Mobile Programming)
 
 A new Flutter project.
 
